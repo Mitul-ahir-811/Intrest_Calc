@@ -9,7 +9,7 @@ body{
     padding:20px;
     background:white;
     border-radius:10px;
-    box-shadow:0 0 10px gray;
+    box-shadow:0 0 10px black;
 }
 
 input{
@@ -21,7 +21,7 @@ input{
 button{
     width:100%;
     padding:12px;
-    background:#007bff;
+    background:#00f80d;
     color:white;
     border:none;
     cursor:pointer;
@@ -29,9 +29,9 @@ button{
 }
 
 button:hover{
-    background:#0056b3;
+    background:black;
 }
 
 h2{
-    color:green;
+    color:black;
 }
